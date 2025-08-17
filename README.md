@@ -113,12 +113,12 @@ console.log("Welcome to my GitHub profile! 🎉");
 ## **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithigesh1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_bust=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithigesh1&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_bust=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithigesh&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_bust=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithigesh&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_bust=1"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithigesh1&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_bust=1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithigesh&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_bust=1" alt="GitHub Streak"/>
 </div>
 
 
@@ -128,9 +128,9 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lithigesh1/lithigesh1/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lithigesh1/lithigesh1/output/pacman-contribution-graph.svg">
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/lithigesh1/lithigesh1/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lithigesh/lithigesh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lithigesh/lithigesh/output/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/lithigesh/lithigesh/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
@@ -139,7 +139,7 @@ console.log("Welcome to my GitHub profile! 🎉");
 ## **Profile Insights**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lithigesh1&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lithigesh&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30" alt="Sparkle animation" />
 </div>
 
