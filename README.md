@@ -1,8 +1,9 @@
 # <div align="center">👋 Hello World! I'm **Lithigesh P G**</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;IoT+Engineer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
 </div>
+
 
 ---
 
@@ -18,16 +19,15 @@ const lithigesh = {
   title: "Full Stack Developer & IoT Engineer",
   education: "B.Tech in Computer and Communication Engineering",
   focusAreas: [
-    "Java with OOPs",
-    "Full Stack Development",
+    "Full Stack Web Development",
+    "Mobile App Development",
     "Data Structures & Algorithms",
-    "Industrial IoT",
-    "AI & Deep Learning",
+    "Cloud Computing (AWS — Certified Cloud Practitioner)"
+    "AI, Machine Learning & Deep Learning",
   ],
   funFact: "I debug with console.log and I'm not ashamed! 😄",
 };
 
-console.log("Welcome to my GitHub profile! 🎉");
 
 
 ````
