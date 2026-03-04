@@ -108,20 +108,6 @@ const lithigesh = {
 
 ---
 
-## **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lithigesh&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_bust=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithigesh&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_bust=1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithigesh&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&cache_bust=1" alt="GitHub Streak"/>
-</div>
-
-
----
-
 ## **Activity & Contributions**
 
 <div align="center">
@@ -134,24 +120,5 @@ const lithigesh = {
 
 ---
 
-## **Profile Insights**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lithigesh&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30" alt="Sparkle animation" />
-</div>
-
-
-
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### *"Building tomorrow's technology, one commit at a time"* 🚀
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
-</div>
 
 
