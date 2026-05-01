@@ -45,7 +45,7 @@ const lithigesh = {
 
 <div align="center">
   <a href="https://lithigesh.dev">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0A66C2?style=for-the-badge" />
   </a>
 </div>
 
